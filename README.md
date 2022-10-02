@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Daiskz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daiskz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiskz&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daiskz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiskz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
