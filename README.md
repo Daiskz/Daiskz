@@ -2,7 +2,6 @@
 
 - 🏫 Atualmente estudo na Universidade São Judas Tadeu
 - 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Daiskz">
