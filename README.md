@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Daisuke 👋
 
 - 🏫 Atualmente estudo na Universidade São Judas Tadeu
-- 🌱 Estudando Java
+- 🌱 Estudando Java, HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/Daiskz">
